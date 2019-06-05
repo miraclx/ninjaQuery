@@ -12,16 +12,16 @@
 Via [NPM][npm]:
 
 ``` bash
-npm install ninjaquery
+npm install ninja_query
 ```
 
 ## Usage
 
 ``` javascript
 // Node CommonJS
-const ninjaQuery = require('ninjaquery');
+const ninjaQuery = require('ninja_query');
 // Or Node ES6
-import ninjaQuery from 'ninjaquery';
+import ninjaQuery from 'ninja_query';
 ```
 
 ## Examples
@@ -171,11 +171,11 @@ npm run build
 [license]:  LICENSE 'Apache 2.0 License'
 [author-url]: https://github.com/miraclx
 
-[npm-url]: https://npmjs.org/package/ninjaquery
-[npm-image]: https://badgen.net/npm/node/ninjaquery
-[npm-image-url]: https://nodei.co/npm/ninjaquery.png?stars&downloads
-[downloads-url]: https://npmjs.org/package/ninjaquery
-[downloads-image]: https://badgen.net/npm/dm/ninjaquery
+[npm-url]: https://npmjs.org/package/ninja_query
+[npm-image]: https://badgen.net/npm/node/ninja_query
+[npm-image-url]: https://nodei.co/npm/ninja_query.png?stars&downloads
+[downloads-url]: https://npmjs.org/package/ninja_query
+[downloads-image]: https://badgen.net/npm/dm/ninja_query
 
 [number]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures#Number_type
 [array]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
