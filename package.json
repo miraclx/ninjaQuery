@@ -67,5 +67,7 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {}
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
 }
