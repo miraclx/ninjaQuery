@@ -156,7 +156,7 @@ $ node examples/password.js
 Feel free to clone, use in adherance to the [license](#license) and perhaps send pull requests
 
 ``` bash
-git clone https://github.com/miraclx/ninjaquery.git
+git clone https://github.com/miraclx/ninjaQuery.git
 cd ninjaquery
 npm install
 # hack on code

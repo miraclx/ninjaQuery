@@ -31,10 +31,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/miraclx/ninja_query.git"
+    "url": "git+https://github.com/miraclx/ninjaQuery.git"
   },
   "bugs": {
-    "url": "https://github.com/miraclx/ninja_query/issues"
+    "url": "https://github.com/miraclx/ninjaQuery/issues"
   },
   "license": "Apache-2.0",
   "babel": {
@@ -64,7 +64,7 @@
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.17.0"
   },
-  "homepage": "https://github.com/miraclx/ninja_query#readme",
+  "homepage": "https://github.com/miraclx/ninjaQuery#readme",
   "directories": {
     "lib": "lib"
   },
