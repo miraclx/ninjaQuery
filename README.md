@@ -46,7 +46,7 @@ Launch the prompt interface (inquiry session)
 #### <a id='ninjaquery_extend'></a> ninjaQuery.extend(templateID[, question])
 
 * `templateID`: &lt;[string]&gt;
-* `quetion`: &lt;[Question](#question)&gt;
+* `quetion`: &lt;[Question](#question) | [Question](#question)[]&gt;
 * Returns: &lt;[Question](#question)&gt;
 
 Merge the `templateID`'s [default Question](#defaultquestions) with the specified `question` object.
