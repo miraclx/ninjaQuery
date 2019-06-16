@@ -1,6 +1,6 @@
 {
   "name": "ninja_query",
-  "version": "0.2.3",
+  "version": "0.3.0",
   "description": "Middlelayer for Inquirer.js to allow prompting even when output is piped",
   "main": "dist/index.js",
   "types": "typings/index.d.ts",
