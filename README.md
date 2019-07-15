@@ -167,7 +167,7 @@ npm run build
 
 [Apache 2.0][license] © **Miraculous Owonubi** ([@miraclx][author-url]) &lt;omiraculous@gmail.com&gt;
 
-[npm]:  https://github.com/npm/npm 'The Node Package Manager'
+[npm]:  https://github.com/npm/cli 'The Node Package Manager'
 [license]:  LICENSE 'Apache 2.0 License'
 [author-url]: https://github.com/miraclx
 
